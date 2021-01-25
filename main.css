@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+#container{
+    width: 50%;
+    height: 680px;
+    background-color:white';
+    box-sizing: border-box;
+}
+#button{
+    width: 200px;
+    height: 50px;
+    float: left;
+    margin-left: 280px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:#8b0000;
+    color: #ffffff;
+    text-align: center;
+   
+}
+#image{
+    width: 100%;
+    height: 500px;
+    border: 5px solid #ffffff;
+    box-sizing: border-box;
+}
